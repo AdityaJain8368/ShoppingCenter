@@ -1,6 +1,6 @@
 # E-commerce
 
-Live Demo: https://vineet1616.github.io/E-commerce/
+Live Demo: 
 
 ### Features of this Ecommerce Website
 
