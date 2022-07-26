@@ -1,4 +1,4 @@
-# E-commerce
+# Shopping Center
 
 Live Demo: https://adityajain8368.github.io/ShoppingCenter/
 
